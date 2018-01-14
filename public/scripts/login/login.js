@@ -10,7 +10,7 @@ $("document").ready(function(){
 			$("#div-login").hide();
 			$("#lbl-welcome").text(`Welcome, ${output.data.NAME}!`);
 		}else{
-
+			
 		}
 	});
 });
