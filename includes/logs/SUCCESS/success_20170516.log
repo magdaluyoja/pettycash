@@ -1,0 +1,329 @@
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 08:51:46
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'cupertino',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 08:51:53
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 08:55:56
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'cupertino',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 08:56:01
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'cupertino',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 08:56:02
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'cupertino',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 08:56:05
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'cupertino',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 08:56:37
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'cupertino',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 08:56:40
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'smoothness',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 08:57:01
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'smoothness',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 08:57:06
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'cupertino',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 08:57:08
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'cupertino',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:13:24
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'cupertino',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:13:28
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'lightness',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:13:34
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:13:46
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkness',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:14:00
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:15:25
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'blacktie',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:15:33
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkness',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:15:44
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:15:52
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:16:06
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:16:22
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:16:29
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:17:54
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:18:03
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:18:46
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:30:36
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:30:55
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:31:13
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:33:16
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:34:37
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='divcontentbg',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:34:45
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:34:50
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:34:59
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:35:37
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='divcontentbg',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:35:45
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='divcontentbg',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:35:51
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:35:56
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:37:12
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND='td-main-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:37:18
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='divcontentbg',CONTENT_BACKGROUND='td-main-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:37:23
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND='td-main-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:37:27
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:37:36
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:56:22
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkhive',MAIN_BACKGROUND='divcontentbg',CONTENT_BACKGROUND='td-main-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 09:56:27
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'cupertino',MAIN_BACKGROUND='divcontentbg',CONTENT_BACKGROUND='td-main-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 10:01:18
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'redmond',MAIN_BACKGROUND='divcontentbg',CONTENT_BACKGROUND='td-main-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-05-16 11:38:46
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'cupertino',MAIN_BACKGROUND='divcontentbg',CONTENT_BACKGROUND='td-main-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+

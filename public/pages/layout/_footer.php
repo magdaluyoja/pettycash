@@ -1,0 +1,1 @@
+<div id="divfooter">Copyright &copy; 2015 Filstar Distributors Corp. All rights reserved.</div>

@@ -1,0 +1,56 @@
+<========SUCCESSFUL========>
+DATE-TIME:2017-04-04 03:34:56
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'lightness',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-04-04 03:35:02
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'lightness',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-04-04 03:35:19
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'lightness',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-04-04 03:35:25
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'darkness',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-04-04 03:38:54
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'eggplant',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-04-04 03:39:06
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'lefrog',MAIN_BACKGROUND='ui-widget-content',CONTENT_BACKGROUND='ui-widget-content'
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-04-04 03:44:45
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'lefrog',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
+<========SUCCESSFUL========>
+DATE-TIME:2017-04-04 03:45:56
+USER:jayr
+QUERY:UPDATE FDCFINANCIALS_PC.THEME SET THEME = 'lefrog',MAIN_BACKGROUND='',CONTENT_BACKGROUND=''
+							 WHERE USERNAME = 'jayr'
+<============END===========>
+
